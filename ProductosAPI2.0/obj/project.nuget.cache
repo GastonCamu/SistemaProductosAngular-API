@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lKHeQbEeXqhyc+i80mkI7u1eW1NH0ujgORso6jNJIClXJvba71e+P8SFZZdewRs7gqPginz/lScsskCAV/H97g==",
+  "dgSpecHash": "rSYFAsCs2agYQFj5wACya/8muaEVdintlC5CbX8GB1KcvfbYQqaCgWSWNGFp2ZZWRwRut0Eri4BdAsIJLgHsFw==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\ProductosAPI2.0.csproj",
+  "projectFilePath": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\ProductosAPI2.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camug\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\camug\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\",
+  "WorkspaceRootPath": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|d:\\proyectos\\pruebas\\productos\\productosapi2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|d:\\proyectos\\pruebas\\sistemaproductosangular-api\\productosapi2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|d:\\proyectos\\pruebas\\productos\\productosapi2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|d:\\proyectos\\pruebas\\sistemaproductosangular-api\\productosapi2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|d:\\proyectos\\pruebas\\productos\\productosapi2.0\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|d:\\proyectos\\pruebas\\sistemaproductosangular-api\\productosapi2.0\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22DB8A55-5FF3-46E4-BE2A-B04E52EF01BA}|ProductosAPI2.0.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,27 +61,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-07T20:34:45.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T20:34:45.083Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Controllers\\ProductoController.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAQwDsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T19:48:14.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T19:48:14.025Z"
             }
           ]
         }

@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\ProductosAPI2.0.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\ProductosAPI2.0.csproj",
       "projectName": "ProductosAPI2.0",
-      "projectPath": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\ProductosAPI2.0.csproj",
+      "projectPath": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\ProductosAPI2.0.csproj",
       "packagesPath": "C:\\Users\\camug\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Pruebas\\Productos\\ProductosAPI2.0\\obj\\",
+      "outputPath": "D:\\Proyectos\\Pruebas\\SistemaProductosAngular-API\\ProductosAPI2.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camug\\AppData\\Roaming\\NuGet\\NuGet.Config",
