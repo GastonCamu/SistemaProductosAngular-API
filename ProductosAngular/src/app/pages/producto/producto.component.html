@@ -1,0 +1,27 @@
+<div class="mat-elevation-z2" style="width: 30%; padding: 30px; margin: 50px auto; display: flex; justify-content: center;">
+    <form [formGroup]="formProducto">
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Descripcion</mat-label>
+                <input type="text" matInput formControlName="descripcion">
+              </mat-form-field>
+        </div>
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Precio</mat-label>
+                <input type="number" matInput formControlName="precio">
+              </mat-form-field>
+        </div>
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Stock</mat-label>
+                <input type="number" matInput formControlName="stock">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <button mat-flat-button color="primary" (click)="guardar()">Guardar</button>
+            <button mat-flat-button color="warn" (click)="volver()" style="margin-left: 8px;">Volver</button>
+        </div>
+    </form>
+</div>
